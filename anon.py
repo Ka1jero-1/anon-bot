@@ -16,7 +16,7 @@ def keep_alive():
     t = Thread(target=run)
     t.start()
 
-TOKEN = '9181002407:AAGwz2TIDK0qFeMDnLG4KBCc_euR4KNJbZM'
+TOKEN = '9181002407:AAF3F7spEiuC3KrcTSOhRXNc1ihvT9qTFRk'
 OWNER_ID = 5419168665
 bot = telebot.TeleBot(TOKEN)
 
